@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" width="160" height="160">
+<style>.r{transform-origin:110px 110px;animation:s 12s linear infinite}@keyframes s{to{transform:rotate(360deg)}}.p{animation:l 4s ease-in-out infinite}@keyframes l{0%,100%{transform:translateX(0)}35%{transform:translateX(8px)}70%{transform:translateX(-8px)}}.b{transform-origin:110px 110px;animation:k 4s infinite}@keyframes k{0%,92%,100%{transform:scaleY(1)}96%{transform:scaleY(.08)}}</style>
+<circle cx="110" cy="110" r="100" fill="#ffb238" stroke="#0d0b1a" stroke-width="6"/>
+<g class="r"><circle cx="110" cy="110" r="84" fill="none" stroke="#0d0b1a" stroke-width="3" stroke-dasharray="4 10"/></g>
+<g class="b"><path d="M48 110q62-56 124 0q-62 56-124 0z" fill="#f3e9d7" stroke="#0d0b1a" stroke-width="6"/><g class="p"><circle cx="110" cy="110" r="21" fill="#0d0b1a"/><circle cx="110" cy="110" r="9" fill="#ff4d5e"/><circle cx="104" cy="104" r="4" fill="#fff"/></g></g>
+<path d="M40 186L182 32" stroke="#0d0b1a" stroke-width="8" stroke-linecap="round"/>
+</svg>
