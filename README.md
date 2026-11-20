@@ -11,7 +11,7 @@
 **La comunidad fan de GTA 6 para todo el mundo.**
 Mapa interactivo de Leonida, secretos, easter eggs, guías, trucos y lo que descubren los jugadores, en 10 idiomas.
 
-[![Web](https://img.shields.io/badge/🌐_Web-punto--ciego--phi.vercel.app-ff4d8a?style=for-the-badge)](https://punto-ciego-phi.vercel.app)
+[![Web](https://img.shields.io/badge/🌐_Web-punto--ciego--phi.vercel.app-ff4d8a?style=for-the-badge)](https://puntociegoleonida.com)
 [![Estado](https://img.shields.io/badge/🚧_Estado-En_creación-ffb238?style=for-the-badge)](#-hoja-de-ruta)
 [![Idiomas](https://img.shields.io/badge/Idiomas-10-19e3c8?style=for-the-badge)](#-idiomas)
 
@@ -240,7 +240,7 @@ El mapa y los gráficos están dibujados por Punto Ciego. Las fotos y los vídeo
 
 **Creado por Erik Puertas**
 
-📧 [Ciegopunto10@gmail.com](mailto:Ciegopunto10@gmail.com) · 🌐 [punto-ciego-phi.vercel.app](https://punto-ciego-phi.vercel.app)
+📧 [Ciegopunto10@gmail.com](mailto:Ciegopunto10@gmail.com) · 🌐 [puntociegoleonida.com](https://puntociegoleonida.com)
 
 <sub>© 2026 Punto Ciego · Hecho con 🧡 para la comunidad de Leonida</sub>
 
